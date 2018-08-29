@@ -1,0 +1,7 @@
+D:\VisualStudio\clase_3_2018\clase_3_2018\obj\Debug\clase_3_2018.csprojAssemblyReference.cache
+D:\VisualStudio\clase_3_2018\clase_3_2018\obj\Debug\clase_3_2018.csproj.CoreCompileInputs.cache
+D:\VisualStudio\clase_3_2018\clase_3_2018\bin\Debug\clase_3_2018.exe.config
+D:\VisualStudio\clase_3_2018\clase_3_2018\bin\Debug\clase_3_2018.exe
+D:\VisualStudio\clase_3_2018\clase_3_2018\bin\Debug\clase_3_2018.pdb
+D:\VisualStudio\clase_3_2018\clase_3_2018\obj\Debug\clase_3_2018.exe
+D:\VisualStudio\clase_3_2018\clase_3_2018\obj\Debug\clase_3_2018.pdb

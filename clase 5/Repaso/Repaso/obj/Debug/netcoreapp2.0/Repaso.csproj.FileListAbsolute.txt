@@ -1,0 +1,11 @@
+D:\VisualStudio\Repaso\Repaso\obj\Debug\netcoreapp2.0\Repaso.csprojAssemblyReference.cache
+D:\VisualStudio\Repaso\Repaso\obj\Debug\netcoreapp2.0\Repaso.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Repaso\Repaso\obj\Debug\netcoreapp2.0\Repaso.AssemblyInfoInputs.cache
+D:\VisualStudio\Repaso\Repaso\obj\Debug\netcoreapp2.0\Repaso.AssemblyInfo.cs
+D:\VisualStudio\Repaso\Repaso\bin\Debug\netcoreapp2.0\Repaso.deps.json
+D:\VisualStudio\Repaso\Repaso\bin\Debug\netcoreapp2.0\Repaso.runtimeconfig.json
+D:\VisualStudio\Repaso\Repaso\bin\Debug\netcoreapp2.0\Repaso.runtimeconfig.dev.json
+D:\VisualStudio\Repaso\Repaso\bin\Debug\netcoreapp2.0\Repaso.dll
+D:\VisualStudio\Repaso\Repaso\bin\Debug\netcoreapp2.0\Repaso.pdb
+D:\VisualStudio\Repaso\Repaso\obj\Debug\netcoreapp2.0\Repaso.dll
+D:\VisualStudio\Repaso\Repaso\obj\Debug\netcoreapp2.0\Repaso.pdb

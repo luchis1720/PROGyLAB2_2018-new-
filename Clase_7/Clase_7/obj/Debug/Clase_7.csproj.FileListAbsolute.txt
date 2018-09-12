@@ -1,0 +1,10 @@
+D:\VisualStudio\Clase_7\Clase_7\bin\Debug\Clase_7.exe.config
+D:\VisualStudio\Clase_7\Clase_7\bin\Debug\Clase_7.exe
+D:\VisualStudio\Clase_7\Clase_7\bin\Debug\Clase_7.pdb
+D:\VisualStudio\Clase_7\Clase_7\obj\Debug\Clase_7.csprojAssemblyReference.cache
+D:\VisualStudio\Clase_7\Clase_7\obj\Debug\Clase_7.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase_7\Clase_7\obj\Debug\Clase_7.exe
+D:\VisualStudio\Clase_7\Clase_7\obj\Debug\Clase_7.pdb
+D:\VisualStudio\Clase_7\Clase_7\bin\Debug\ClassLibrary1.dll
+D:\VisualStudio\Clase_7\Clase_7\bin\Debug\ClassLibrary1.pdb
+D:\VisualStudio\Clase_7\Clase_7\obj\Debug\Clase_7.csproj.CopyComplete
